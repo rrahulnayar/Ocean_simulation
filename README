@@ -1,0 +1,17 @@
+Please replace this text with your own.
+
+This file should include 
+	1) directions for compiling your code, 
+		-"make all" the build all the files
+		-"make clean" to clear all the *.c generated execuitable 	
+	2) directions for running your code, 
+		-./serial_ocean <xdim> <ydim> <timesteps> <value_to_be_assigned, 0 to take random value from 0-999> <matrix_printout "1/0>
+	3) any other comments
+		-"serial_ocean" does the serial implementation of the ocean simulation
+		-"omp_ocean" does the dynamic parallel implementation of the ocean simulation
+		-"omp_ocean_static" does the static parallel implemantation of the ocean simulation
+		-"omp_ocean_static_increment" does the static parallel implementation of the ocean simulation
+
+
+
+

@@ -1,0 +1,112 @@
+Ocean matrix at the start
+10  10  10  10  10  10  
+10  0  0  0  0  10  
+10  0  0  0  0  10  
+10  0  0  0  0  10  
+10  0  0  0  0  10  
+10  10  10  10  10  10  
+Ocean matrix at the end
+10  10  10  10  10  10  
+10  4  2  3  4  10  
+10  2  0  0  3  10  
+10  3  0  0  2  10  
+10  4  3  2  4  10  
+10  10  10  10  10  10  
+Total Execution time: 1070 ns
+Ocean matrix at the start
+10  10  10  10  10  10  
+10  0  0  0  0  10  
+10  0  0  0  0  10  
+10  0  0  0  0  10  
+10  0  0  0  0  10  
+10  10  10  10  10  10  
+Ocean matrix at the end
+10  10  10  10  10  10  
+10  7  6  6  7  10  
+10  6  4  4  6  10  
+10  6  4  4  6  10  
+10  7  6  6  7  10  
+10  10  10  10  10  10  
+Total Execution time: 297680 ns
+Ocean matrix at the start
+383  421  172  123  393  537  956  327  582  
+886  362  736  67  456  198  873  336  545  
+777  27  211  135  11  324  862  505  814  
+915  690  368  929  42  315  170  846  367  
+793  59  567  802  229  370  996  729  434  
+335  763  429  22  373  413  281  313  364  
+386  926  782  58  421  526  305  857  43  
+492  540  530  69  919  91  925  124  750  
+649  426  862  167  784  980  84  895  87  
+Ocean matrix at the end
+383  421  172  123  393  537  956  327  582  
+886  523  301  244  287  447  625  530  545  
+777  529  402  312  318  400  579  651  814  
+915  642  517  430  363  444  592  561  367  
+793  622  526  448  393  455  541  560  434  
+335  515  501  394  344  405  455  425  364  
+386  546  506  361  381  378  367  325  43  
+492  513  563  372  467  518  331  556  750  
+649  426  862  167  784  980  84  895  87  
+Total Execution time: 3820 ns
+Ocean matrix at the start
+383  421  172  123  393  537  956  327  582  
+886  362  736  67  456  198  873  336  545  
+777  27  211  135  11  324  862  505  814  
+915  690  368  929  42  315  170  846  367  
+793  59  567  802  229  370  996  729  434  
+335  763  429  22  373  413  281  313  364  
+386  926  782  58  421  526  305  857  43  
+492  540  530  69  919  91  925  124  750  
+649  426  862  167  784  980  84  895  87  
+Ocean matrix at the end
+383  421  172  123  393  537  956  327  582  
+886  523  301  244  287  447  625  530  545  
+777  529  402  312  318  400  579  651  814  
+915  642  517  430  363  444  592  561  367  
+793  622  526  448  393  455  541  560  434  
+335  515  501  394  344  405  455  425  364  
+386  546  506  361  381  378  367  325  43  
+492  513  563  372  467  518  331  556  750  
+649  426  862  167  784  980  84  895  87  
+Total Execution time: 79590220 ns
+Total Execution time: 93964450 ns
+Total Execution time: 77071494 ns
+Total Execution time: 72016692 ns
+Total Execution time: 97490465 ns
+Total Execution time: 99865633 ns
+Total Execution time: 92529039 ns
+Total Execution time: 91274360 ns
+Total Execution time: 107514275 ns
+Total Execution time: 103888710 ns
+Total Execution time: 100993365 ns
+Total Execution time: 82055667 ns
+Total Execution time: 78716704 ns
+Total Execution time: 87021566 ns
+Total Execution time: 77866640 ns
+Total Execution time: 71208953 ns
+Total Execution time: 80844832 ns
+Total Execution time: 96551248 ns
+Total Execution time: 83194782 ns
+Total Execution time: 99009352 ns
+Total Execution time: 121524435 ns
+Total Execution time: 75421111 ns
+Total Execution time: 84138792 ns
+Total Execution time: 72605566 ns
+Total Execution time: 74698250 ns
+Total Execution time: 75410063 ns
+Total Execution time: 81937732 ns
+Total Execution time: 84562315 ns
+Total Execution time: 95718780 ns
+Total Execution time: 77723417 ns
+Total Execution time: 92524895 ns
+Total Execution time: 76519287 ns
+Total Execution time: 83245180 ns
+Total Execution time: 95385030 ns
+Total Execution time: 112964276 ns
+Total Execution time: 135674457 ns
+Total Execution time: 200448570 ns
+Total Execution time: 319138440 ns
+Total Execution time: 603210519 ns
+Total Execution time: 1119624839 ns
+Total Execution time: 1113737065 ns
